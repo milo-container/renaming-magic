@@ -26,7 +26,7 @@ public class AppMain extends JFrame {
         Box vBox = Box.createVerticalBox();
         JLabel topBox = new JLabel("Top");
         topBox.setForeground(Color.GREEN);
-        topBox.setFont();
+//        topBox.setFont();
         JPanel datepanel = this.getDatePanel();
 
         JPanel prePanel = this.getPrePanel();
